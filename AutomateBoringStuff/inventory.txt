@@ -1,0 +1,1 @@
+{'cat': 45, 'pictures': 7, 'pen': 92, 'clock': 10, 'house': 4, 'mouse': 2, 'car': 6, 'cake': 5, 'lemon ': 4, 'lime': 2, 'monitors': 4, 'chair': 2, 'wine': 2}
