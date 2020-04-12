@@ -1,0 +1,169 @@
+Student ID: 21 
+Student Name: Simran Kadam 
+What is the capital of West Virginia ?
+* Charleston
+* Hartford
+* Saint Paul
+* Lincoln
+
+Answer Selected: Lincoln. Correct Answer: Charleston
+
+What is the capital of Nebraska ?
+* Atlanta
+* Lincoln
+* Frankfort
+* Denver
+
+Answer Selected: Frankfort. Correct Answer: Lincoln
+
+What is the capital of Arizona ?
+* Phoenix
+* Cheyenne
+* Bismarck
+* Montgomery
+
+Answer Selected: Phoenix 
+What is the capital of Texas ?
+* Baton Rouge
+* Salem
+* Austin
+* Frankfort
+
+Answer Selected: Frankfort. Correct Answer: Austin
+
+What is the capital of Oklahoma ?
+* Bismarck
+* Cheyenne
+* Columbia
+* Oklahoma City
+
+Answer Selected: Bismarck. Correct Answer: Oklahoma City
+
+What is the capital of Virginia ?
+* Richmond
+* Austin
+* Lincoln
+* Topeka
+
+Answer Selected: Topeka. Correct Answer: Richmond
+
+What is the capital of Kansas ?
+* Santa Fe
+* Topeka
+* Lincoln
+* Denver
+
+Answer Selected: Santa Fe. Correct Answer: Topeka
+
+What is the capital of New Mexico ?
+* Santa Fe
+* Sacramento
+* Augusta
+* Frankfort
+
+Answer Selected: Augusta. Correct Answer: Santa Fe
+
+What is the capital of Pennsylvania ?
+* Salt Lake City
+* Columbus
+* Harrisburg
+* Albany
+
+Answer Selected: Salt Lake City. Correct Answer: Harrisburg
+
+What is the capital of Delaware ?
+* Olympia
+* Oklahoma City
+* Salt Lake City
+* Dover
+
+Answer Selected: Dover 
+What is the capital of Louisiana ?
+* Salt Lake City
+* Dover
+* Baton Rouge
+* Concord
+
+Answer Selected: Concord. Correct Answer: Baton Rouge
+
+What is the capital of North Dakota ?
+* Bismarck
+* Harrisburg
+* Des Moines
+* Montgomery
+
+Answer Selected: Des Moines. Correct Answer: Bismarck
+
+What is the capital of West Virginia ?
+* Olympia
+* Indianapolis
+* Saint Paul
+* Charleston
+
+Answer Selected: Olympia. Correct Answer: Charleston
+
+What is the capital of Hawaii ?
+* Lansing
+* Bismarck
+* Tallahassee
+* Honolulu
+
+Answer Selected: Tallahassee. Correct Answer: Honolulu
+
+What is the capital of Montana ?
+* Augusta
+* Charleston
+* Helena
+* Honolulu
+
+Answer Selected: Charleston. Correct Answer: Helena
+
+What is the capital of South Dakota ?
+* Richmond
+* Montgomery
+* Phoenix
+* Pierre
+
+Answer Selected: Montgomery. Correct Answer: Pierre
+
+What is the capital of Wisconsin ?
+* Lansing
+* Madison
+* Atlanta
+* Salt Lake City
+
+Answer Selected: Lansing. Correct Answer: Madison
+
+What is the capital of Alabama ?
+* Little Rock
+* Montgomery
+* Albany
+* Helena
+
+Answer Selected: Helena. Correct Answer: Montgomery
+
+What is the capital of North Carolina ?
+* Richmond
+* Harrisburg
+* Concord
+* Raleigh
+
+Answer Selected: Richmond. Correct Answer: Raleigh
+
+What is the capital of Pennsylvania ?
+* Harrisburg
+* Boston
+* Bismarck
+* Lincoln
+
+Answer Selected: Lincoln. Correct Answer: Harrisburg
+
+What is the capital of Utah ?
+* Tallahassee
+* Salt Lake City
+* Bismarck
+* Austin
+
+Answer Selected: Tallahassee. Correct Answer: Salt Lake City
+
+Candidate failed with final score of: 2

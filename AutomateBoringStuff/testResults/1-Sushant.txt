@@ -1,0 +1,208 @@
+Student ID: 1 
+Student Name: Sushant 
+
+What is the capital of Missouri ? 
+
+* Oklahoma City
+* Olympia
+* Jefferson City
+* Austin
+
+
+Answer Selected: Oklahoma City. Correct Answer: Jefferson City
+
+What is the capital of Wyoming ? 
+
+* Albany
+* Sacramento
+* Cheyenne
+* Boise
+
+
+Answer Selected: Albany. Correct Answer: Cheyenne
+
+What is the capital of Louisiana ? 
+
+* Montpelier
+* Baton Rouge
+* Providence
+* Honolulu
+
+
+Answer Selected: Montpelier. Correct Answer: Baton Rouge
+
+What is the capital of Ohio ? 
+
+* Providence
+* Columbia
+* Columbus
+* Des Moines
+
+
+Answer Selected: Providence. Correct Answer: Columbus
+
+What is the capital of South Dakota ? 
+
+* Baton Rouge
+* Salem
+* Pierre
+* Helena
+
+
+Answer Selected: Baton Rouge. Correct Answer: Pierre
+
+What is the capital of Hawaii ? 
+
+* Honolulu
+* Charleston
+* Denver
+* Concord
+
+
+Answer Selected: Honolulu
+What is the capital of Virginia ? 
+
+* Richmond
+* Harrisburg
+* Lincoln
+* Honolulu
+
+
+Answer Selected: Richmond
+What is the capital of Wyoming ? 
+
+* Montpelier
+* Richmond
+* Providence
+* Cheyenne
+
+
+Answer Selected: Montpelier. Correct Answer: Cheyenne
+
+What is the capital of South Carolina ? 
+
+* Nashville
+* Columbia
+* Topeka
+* Jackson
+
+
+Answer Selected: Nashville. Correct Answer: Columbia
+
+What is the capital of North Dakota ? 
+
+* Bismarck
+* Annapolis
+* Pierre
+* Austin
+
+
+Answer Selected: Bismarck
+What is the capital of Arkansas ? 
+
+* Harrisburg
+* Sacramento
+* Little Rock
+* Albany
+
+
+Answer Selected: Harrisburg. Correct Answer: Little Rock
+
+What is the capital of Nebraska ? 
+
+* Trenton
+* Atlanta
+* Pierre
+* Lincoln
+
+
+Answer Selected: Trenton. Correct Answer: Lincoln
+
+What is the capital of Montana ? 
+
+* Indianapolis
+* Oklahoma City
+* Helena
+* Boston
+
+
+Answer Selected: Indianapolis. Correct Answer: Helena
+
+What is the capital of Delaware ? 
+
+* Dover
+* Honolulu
+* Lansing
+* Oklahoma City
+
+
+Answer Selected: Dover
+What is the capital of Texas ? 
+
+* Honolulu
+* Santa Fe
+* Cheyenne
+* Austin
+
+
+Answer Selected: Honolulu. Correct Answer: Austin
+
+What is the capital of Pennsylvania ? 
+
+* Harrisburg
+* Pierre
+* Atlanta
+* Montgomery
+
+
+Answer Selected: Harrisburg
+What is the capital of Kansas ? 
+
+* Madison
+* Topeka
+* Santa Fe
+* Augusta
+
+
+Answer Selected: Madison. Correct Answer: Topeka
+
+What is the capital of Wyoming ? 
+
+* Juneau
+* Cheyenne
+* Saint Paul
+* Frankfort
+
+
+Answer Selected: Juneau. Correct Answer: Cheyenne
+
+What is the capital of Florida ? 
+
+* Tallahassee
+* Annapolis
+* Jackson
+* Salem
+
+
+Answer Selected: Tallahassee
+What is the capital of New Jersey ? 
+
+* Cheyenne
+* Boston
+* Harrisburg
+* Trenton
+
+
+Answer Selected: Cheyenne. Correct Answer: Trenton
+
+What is the capital of New Mexico ? 
+
+* Santa Fe
+* Saint Paul
+* Austin
+* Lincoln
+
+
+Answer Selected: Santa Fe
+
+Candidate failed with final score of: 7

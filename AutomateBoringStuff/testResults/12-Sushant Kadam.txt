@@ -1,0 +1,213 @@
+Student ID: 12 
+Student Name: Sushant Kadam 
+
+What is the capital of Kansas ? 
+
+* Baton Rouge
+* Saint Paul
+* Frankfort
+* Topeka
+
+Answer Selected: Baton Rouge. Correct Answer: Topeka
+
+
+What is the capital of Wyoming ? 
+
+* Honolulu
+* Salt Lake City
+* Boise
+* Cheyenne
+
+Answer Selected: Honolulu. Correct Answer: Cheyenne
+
+
+What is the capital of Ohio ? 
+
+* Little Rock
+* Pierre
+* Helena
+* Columbus
+
+Answer Selected: Little Rock. Correct Answer: Columbus
+
+
+What is the capital of West Virginia ? 
+
+* Nashville
+* Charleston
+* Montgomery
+* Santa Fe
+
+Answer Selected: Nashville. Correct Answer: Charleston
+
+
+What is the capital of West Virginia ? 
+
+* Nashville
+* Charleston
+* Des Moines
+* Hartford
+
+Answer Selected: Nashville. Correct Answer: Charleston
+
+
+What is the capital of Nevada ? 
+
+* Topeka
+* Dover
+* Lansing
+* Carson City
+
+Answer Selected: Topeka. Correct Answer: Carson City
+
+
+What is the capital of Massachusetts ? 
+
+* Jackson
+* Jefferson City
+* Hartford
+* Boston
+
+Answer Selected: Jackson. Correct Answer: Boston
+
+
+What is the capital of Pennsylvania ? 
+
+* Harrisburg
+* Charleston
+* Little Rock
+* Oklahoma City
+
+Answer Selected: Harrisburg 
+
+What is the capital of Wyoming ? 
+
+* Jefferson City
+* Denver
+* Providence
+* Cheyenne
+
+Answer Selected: Jefferson City. Correct Answer: Cheyenne
+
+
+What is the capital of Tennessee ? 
+
+* Jackson
+* Nashville
+* Oklahoma City
+* Olympia
+
+Answer Selected: Jackson. Correct Answer: Nashville
+
+
+What is the capital of South Dakota ? 
+
+* Montpelier
+* Providence
+* Pierre
+* Juneau
+
+Answer Selected: Montpelier. Correct Answer: Pierre
+
+
+What is the capital of Texas ? 
+
+* Augusta
+* Trenton
+* Austin
+* Madison
+
+Answer Selected: Augusta. Correct Answer: Austin
+
+
+What is the capital of Mississippi ? 
+
+* Boise
+* Jackson
+* Little Rock
+* Raleigh
+
+Answer Selected: Boise. Correct Answer: Jackson
+
+
+What is the capital of Massachusetts ? 
+
+* Lincoln
+* Boston
+* Montpelier
+* Olympia
+
+Answer Selected: Lincoln. Correct Answer: Boston
+
+
+What is the capital of Oklahoma ? 
+
+* Carson City
+* Oklahoma City
+* Tallahassee
+* Topeka
+
+Answer Selected: Carson City. Correct Answer: Oklahoma City
+
+
+What is the capital of Tennessee ? 
+
+* Charleston
+* Nashville
+* Honolulu
+* Helena
+
+Answer Selected: Charleston. Correct Answer: Nashville
+
+
+What is the capital of Iowa ? 
+
+* Des Moines
+* Carson City
+* Concord
+* Baton Rouge
+
+Answer Selected: Des Moines 
+
+What is the capital of Alaska ? 
+
+* Trenton
+* Juneau
+* Olympia
+* Lincoln
+
+Answer Selected: Trenton. Correct Answer: Juneau
+
+
+What is the capital of Iowa ? 
+
+* Columbus
+* Des Moines
+* Madison
+* Salem
+
+Answer Selected: Columbus. Correct Answer: Des Moines
+
+
+What is the capital of New Mexico ? 
+
+* Austin
+* Raleigh
+* Lansing
+* Santa Fe
+
+Answer Selected: Austin. Correct Answer: Santa Fe
+
+
+What is the capital of Nevada ? 
+
+* Saint Paul
+* Phoenix
+* Jackson
+* Carson City
+
+Answer Selected: Saint Paul. Correct Answer: Carson City
+
+
+
+Candidate failed with final score of: 2

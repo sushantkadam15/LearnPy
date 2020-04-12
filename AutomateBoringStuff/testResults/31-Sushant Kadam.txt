@@ -1,0 +1,212 @@
+Student ID: 31 
+Student Name: Sushant Kadam 
+
+What is the capital of North Carolina ? 
+
+* Boise
+* Saint Paul
+* Raleigh
+* Trenton
+
+
+Answer Selected: Boise. Correct Answer: Raleigh
+
+What is the capital of Indiana ? 
+
+* Santa Fe
+* Hartford
+* Indianapolis
+* Nashville
+
+
+Answer Selected: Santa Fe. Correct Answer: Indianapolis
+
+What is the capital of South Carolina ? 
+
+* Lincoln
+* Trenton
+* Columbia
+* Denver
+
+
+Answer Selected: Lincoln. Correct Answer: Columbia
+
+What is the capital of Missouri ? 
+
+* Frankfort
+* Boston
+* Jefferson City
+* Little Rock
+
+
+Answer Selected: Frankfort. Correct Answer: Jefferson City
+
+What is the capital of California ? 
+
+* Sacramento
+* Concord
+* Albany
+* Oklahoma City
+
+
+Answer Selected: Sacramento
+What is the capital of Texas ? 
+
+* Tallahassee
+* Austin
+* Indianapolis
+* Carson City
+
+
+Answer Selected: Tallahassee. Correct Answer: Austin
+
+What is the capital of New Jersey ? 
+
+* Salem
+* Olympia
+* Frankfort
+* Trenton
+
+
+Answer Selected: Salem. Correct Answer: Trenton
+
+What is the capital of Missouri ? 
+
+* Madison
+* Santa Fe
+* Jefferson City
+* Helena
+
+
+Answer Selected: Madison. Correct Answer: Jefferson City
+
+What is the capital of Oregon ? 
+
+* Denver
+* Salem
+* Baton Rouge
+* Austin
+
+
+Answer Selected: Denver. Correct Answer: Salem
+
+What is the capital of Georgia ? 
+
+* Denver
+* Santa Fe
+* Olympia
+* Atlanta
+
+
+Answer Selected: Denver. Correct Answer: Atlanta
+
+What is the capital of Washington ? 
+
+* Albany
+* Juneau
+* Olympia
+* Columbia
+
+
+Answer Selected: Albany. Correct Answer: Olympia
+
+What is the capital of Kentucky ? 
+
+* Saint Paul
+* Frankfort
+* Baton Rouge
+* Providence
+
+
+Answer Selected: Saint Paul. Correct Answer: Frankfort
+
+What is the capital of New Hampshire ? 
+
+* Juneau
+* Columbia
+* Concord
+* Madison
+
+
+Answer Selected: Juneau. Correct Answer: Concord
+
+What is the capital of Arizona ? 
+
+* Jackson
+* Phoenix
+* Oklahoma City
+* Hartford
+
+
+Answer Selected: Jackson. Correct Answer: Phoenix
+
+What is the capital of Alaska ? 
+
+* Juneau
+* Madison
+* Charleston
+* Denver
+
+
+Answer Selected: Juneau
+What is the capital of Wisconsin ? 
+
+* Sacramento
+* Frankfort
+* Madison
+* Charleston
+
+
+Answer Selected: Sacramento. Correct Answer: Madison
+
+What is the capital of Idaho ? 
+
+* Boise
+* Indianapolis
+* Boston
+* Charleston
+
+
+Answer Selected: Boise
+What is the capital of Maryland ? 
+
+* Saint Paul
+* Annapolis
+* Richmond
+* Pierre
+
+
+Answer Selected: Saint Paul. Correct Answer: Annapolis
+
+What is the capital of Montana ? 
+
+* Jefferson City
+* Juneau
+* Pierre
+* Helena
+
+
+Answer Selected: Jefferson City. Correct Answer: Helena
+
+What is the capital of Michigan ? 
+
+* Jackson
+* Lansing
+* Denver
+* Baton Rouge
+
+
+Answer Selected: Jackson. Correct Answer: Lansing
+
+What is the capital of Illinois ? 
+
+* Austin
+* Honolulu
+* Springfield
+* Dover
+
+
+Answer Selected: Austin. Correct Answer: Springfield
+
+
+Candidate failed with final score of: 3

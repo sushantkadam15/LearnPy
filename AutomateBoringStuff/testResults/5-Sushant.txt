@@ -1,0 +1,210 @@
+Student ID: 5 
+Student Name: Sushant 
+
+What is the capital of Florida ? 
+
+* Tallahassee
+* Sacramento
+* Jackson
+* Helena
+
+
+Answer Selected: Tallahassee
+What is the capital of Utah ? 
+
+* Augusta
+* Salt Lake City
+* Columbus
+* Charleston
+
+
+Answer Selected: Augusta. Correct Answer: Salt Lake City
+
+What is the capital of Missouri ? 
+
+* Jefferson City
+* Olympia
+* Saint Paul
+* Concord
+
+
+Answer Selected: Jefferson City
+What is the capital of Colorado ? 
+
+* Hartford
+* Harrisburg
+* Denver
+* Jackson
+
+
+Answer Selected: Hartford. Correct Answer: Denver
+
+What is the capital of Indiana ? 
+
+* Indianapolis
+* Albany
+* Des Moines
+* Hartford
+
+
+Answer Selected: Indianapolis
+What is the capital of Maryland ? 
+
+* Bismarck
+* Annapolis
+* Indianapolis
+* Nashville
+
+
+Answer Selected: Bismarck. Correct Answer: Annapolis
+
+What is the capital of Pennsylvania ? 
+
+* Bismarck
+* Jackson
+* Columbus
+* Harrisburg
+
+
+Answer Selected: Bismarck. Correct Answer: Harrisburg
+
+What is the capital of Oregon ? 
+
+* Columbia
+* Salem
+* Concord
+* Pierre
+
+
+Answer Selected: Columbia. Correct Answer: Salem
+
+What is the capital of New Mexico ? 
+
+* Juneau
+* Santa Fe
+* Tallahassee
+* Phoenix
+
+
+Answer Selected: Juneau. Correct Answer: Santa Fe
+
+What is the capital of Rhode Island ? 
+
+* Providence
+* Boston
+* Hartford
+* Harrisburg
+
+
+Answer Selected: Providence
+What is the capital of Indiana ? 
+
+* Annapolis
+* Des Moines
+* Indianapolis
+* Montgomery
+
+
+Answer Selected: Annapolis. Correct Answer: Indianapolis
+
+What is the capital of Arizona ? 
+
+* Bismarck
+* Trenton
+* Phoenix
+* Columbus
+
+
+Answer Selected: Bismarck. Correct Answer: Phoenix
+
+What is the capital of Minnesota ? 
+
+* Nashville
+* Hartford
+* Columbus
+* Saint Paul
+
+
+Answer Selected: Nashville. Correct Answer: Saint Paul
+
+What is the capital of Ohio ? 
+
+* Columbia
+* Harrisburg
+* Columbus
+* Tallahassee
+
+
+Answer Selected: Columbia. Correct Answer: Columbus
+
+What is the capital of North Dakota ? 
+
+* Montpelier
+* Denver
+* Cheyenne
+* Bismarck
+
+
+Answer Selected: Montpelier. Correct Answer: Bismarck
+
+What is the capital of Mississippi ? 
+
+* Boise
+* Carson City
+* Jackson
+* Phoenix
+
+
+Answer Selected: Boise. Correct Answer: Jackson
+
+What is the capital of Illinois ? 
+
+* Phoenix
+* Jefferson City
+* Richmond
+* Springfield
+
+
+Answer Selected: Phoenix. Correct Answer: Springfield
+
+What is the capital of Wisconsin ? 
+
+* Tallahassee
+* Madison
+* Frankfort
+* Little Rock
+
+
+Answer Selected: Tallahassee. Correct Answer: Madison
+
+What is the capital of Texas ? 
+
+* Albany
+* Helena
+* Sacramento
+* Austin
+
+
+Answer Selected: Albany. Correct Answer: Austin
+
+What is the capital of Nevada ? 
+
+* Carson City
+* Jackson
+* Santa Fe
+* Raleigh
+
+
+Answer Selected: Carson City
+What is the capital of North Carolina ? 
+
+* Harrisburg
+* Raleigh
+* Annapolis
+* Santa Fe
+
+
+Answer Selected: Harrisburg. Correct Answer: Raleigh
+
+
+Candidate failed with final score of: 5

@@ -1,0 +1,10 @@
+Alberta	403, 587, 780, 825
+British Columbia	236, 250, 604, 672, 778
+Manitoba	204, 431
+New Brunswick	506
+Newfoundland and Labrador	709
+Nova Scotia and Prince Edward Island	782, 902
+Ontario	226, 249, 289, 343, 365, 416, 437, 519, 548, 613, 647, 705, 807, 905
+Quebec	367, 418, 438, 450, 514, 579, 581, 819, 873
+Saskatchewan	306, 639
+Yukon, Northwest Territories and Nunavut	867
